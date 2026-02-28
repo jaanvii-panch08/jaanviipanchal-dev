@@ -7,10 +7,13 @@ Frontend Developer from India
 - HTML
 - CSS
 - JavaScript
+- react
+  
 
 ## Currently Learning
 - Advanced JavaScript
 - AI Tools
+- AI development 
 
 ## Open To
 - Freelance Projects
